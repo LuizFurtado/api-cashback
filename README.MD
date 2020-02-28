@@ -8,7 +8,7 @@ Foram utilizadas as seguintes tecnologias:
 * Express
 * MongoDB
 
-Para conexão com o banco de dados foi utilizada a biblioteca Mongoose, devido a facilidade que apresenta para inclusão e manipulação dos dados.
+Para conexão com o banco de dados foi utilizada a biblioteca Mongoose, devido a facilidade que apresenta para inclusão e manipulação dos dados. Para este projeto foi utilizado um banco de dados local.
 
 ### Modelos
 A aplicação apresenta uma pasta "models" para melhor organização do código. Foram criados dois modelos para representar as entidades propostas no desafio, cada um em seu respectivo arquivo:
